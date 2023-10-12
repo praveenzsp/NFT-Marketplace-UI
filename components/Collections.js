@@ -151,14 +151,15 @@ function Collections() {
             Place a Bid
           </button>
         </div>
+        
         <div id="card" className="bg-[#FFFFFF1A] rounded-[10px] p-[26px]">
           <Image
-            src="/collection5.png"
+            src="/collection6.png"
             width={337}
             height={380}
             className="mb-[20px]"
           />
-          <div className="flex justify-between mb-[30px]">
+          <div className="flex justify-between">
             <div>
               <p className="text-[#FFFFFF80] text-[20px] font-[400] mb-[10px]">
                 @Johnny
@@ -180,7 +181,7 @@ function Collections() {
         </div>
         <div id="card" className="bg-[#FFFFFF1A] rounded-[10px] p-[26px]">
           <Image
-            src="/collection6.png"
+            src="/collection5.png"
             width={337}
             height={380}
             className="mb-[20px]"
